@@ -22,7 +22,7 @@ Here you can find a showcase of my projects with their preview images and links 
 
 ## 🎮 Metal Maniac Project
 
-<img src="Metal_Maniac/Metal_Maniac.png" alt="Metal Maniac" width="400" />  
+<img src="Metal_Maniac/Metal_Manaic.png" alt="Metal Maniac" width="400" />  
 📖 [View Documentation](https://github.com/abdullahforecasts/Projects_Overview/blob/main/Metal_Maniac/Readme.md)
 
 ---
